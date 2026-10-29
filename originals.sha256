@@ -1,0 +1,6 @@
+# sha256 of the stock apks the mod was developed against.
+# The build scripts refuse to build from any other file, so a wrong download
+# can not produce an apk that looks like a release but is something else.
+DC7EDD20F116AC2FC1D96E8A727F7FF01192C9C2EF4C6DFF9B098179B60B8053  mystique-chapter-1-foetus-1-4.apk
+D8DDBA4348352C749C8729F5F328B74524030510FF57C1D69D98D8073EF4DFF3  mystiquech_2.apk
+D87D8A0CE1399E9C26E16FDA5380BA0A2D1F79AC2F6C8872845BA2F76A0CE751  mystiquech_3.apk
